@@ -1,5 +1,5 @@
-const num1="7";
-var num="4";
+const num1=7;
+var num=4;
 let canPass=true;
 if (canPass==false){
 if (num1=>num) {
