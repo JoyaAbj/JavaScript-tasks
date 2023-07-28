@@ -1,3 +1,2 @@
-function showAlert(4) {
-    alert('4');
-}
+const numbers = document.querySelectorAll(.numbers button);
+const submit =document.getElementById('submit');
